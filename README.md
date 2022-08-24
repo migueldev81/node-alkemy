@@ -14,17 +14,7 @@ git clone https://github.com/migueldev81/node-alkemy-challenge
 ````
 PASS_SEC=
 JWT_SEC=
-````
-### Create file in root -> config.js
-```
-export default {
-    database: {
-        username: "",
-        password: "",
-        database: "",
-        host: ""
-    }
-}
+DATABASE_URL=
 ````
 ### MySQL Console
 ````
