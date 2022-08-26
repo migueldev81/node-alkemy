@@ -1,4 +1,4 @@
-# Node.js - MySQL | API REST | CHALLENGE BACKEND NodeJs
+# Node.js - PostgreSQL | API REST | CHALLENGE BACKEND NodeJs
 ## Database(SQL)
 ![database](./resources/database.png)
 ### Requerimients
