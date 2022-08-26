@@ -16,7 +16,7 @@ DATABASE_URL=
 PASS_SEC=
 JWT_SEC=
 ````
-### MySQL Console(No Remote)
+### SQL Console(No Remote)
 ````
 CREATE DATABASE [database];
 ````
