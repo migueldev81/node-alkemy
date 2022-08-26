@@ -3,8 +3,8 @@
 ![database](./resources/database.png)
 ### Requerimients
 ```
-Install Node 14.x
-Install MySQL 5.x
+Install Node.js
+Install PostgreSQL
 ```
 ### Git Clone
 ```
@@ -12,11 +12,11 @@ git clone https://github.com/migueldev81/node-alkemy-challenge
 ```
 ### Variables Enviroment (.env)
 ````
+DATABASE_URL=
 PASS_SEC=
 JWT_SEC=
-DATABASE_URL=
 ````
-### MySQL Console
+### MySQL Console(No Remote)
 ````
 CREATE DATABASE [database];
 ````
