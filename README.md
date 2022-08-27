@@ -1,8 +1,8 @@
 # Node.js - PostgreSQL | API REST | CHALLENGE BACKEND NodeJs
-## URL Link
-[Heroku Link](https://link-url-here.org)
-## Swagger Document
-[Swagger API](https://link-url-here.org)
+## URL API REST
+[API REST](https://link-url-here.org)
+## Swagger Documentation
+[Swagger Documentation](https://link-url-here.org)
 ## Database(SQL)
 ![database](./resources/database.png)
 ### Requerimients
