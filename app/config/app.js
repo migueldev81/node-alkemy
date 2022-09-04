@@ -16,7 +16,7 @@ app.use(morgan("dev"));
 app.use(express.json());
 
 //routes
-app.use("/api/v1", IndexRoutes);
+app.use("/api/v1/", IndexRoutes);
 app.use("/api/v1/characters", CharacterRoutes);
 app.use("/api/v1/movies", MovieRoutes);
 app.use("/api/v1/genders", GenderRoutes);
