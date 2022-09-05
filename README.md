@@ -1,6 +1,6 @@
 # Node.js - PostgreSQL | API REST | CHALLENGE BACKEND NodeJs
 ## URL API
-[https://node-challenge-migueldev81.herokuapp.com/api/v1](https://node-challenge-migueldev81.herokuapp.com/api/v1)
+[https://node-challenge-migueldev81.herokuapp.com/api-docs](https://node-challenge-migueldev81.herokuapp.com/api-docs)
 ## Database(SQL)
 ![database](./resources/database.png)
 ## Local Development
