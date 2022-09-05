@@ -27,11 +27,8 @@ const swaggerSpec = {
         },
         servers: [
             {
-                url: "https://node-challenge-migueldev81.herokuapp.com/api/v1"
+                url: "https://node-challenge-migueldev81.herokuapp.com/api-docs"
             },
-            {
-                url: "http://localhost:3000/api/v1"
-            }
         ]
     },
     apis: [`${path.join(__dirname, '../routes', '*.js')}`],
@@ -41,7 +38,7 @@ app.use(morgan("dev"));
 app.use(express.json());
 
 //routes
-app.use('/api/v1', swaggerUI.serve, swaggerUI.setup(swaggerJSDoc(swaggerSpec)))
+app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerJSDoc(swaggerSpec)))
 app.use("/api/v1/characters", CharacterRoutes);
 app.use("/api/v1/movies", MovieRoutes);
 app.use("/api/v1/genders", GenderRoutes);
