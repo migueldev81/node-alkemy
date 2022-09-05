@@ -1,6 +1,8 @@
 import { Router } from 'express'
 import { getCharacters, postCharacter, getCharacter, putCharacter, deleteCharacter, getCharacterMovies } from '../controllers/CharacterController.js'
 import { validateCharacter } from '../middlewares/validates.js'
+const router = Router();
+
 /**
  * @swagger
  * components:
@@ -14,15 +16,35 @@ import { validateCharacter } from '../middlewares/validates.js'
  *              age:
  *                  type: number
  *                  description: the character age
+ *              weigth:
+ *                  type: number
+ *                  description: the character weigth
  *              image:
  *                  type: string
  *                  description: the character imageURL
- *              qual:
- *                  type: number
- *                  description: the character qual
+ *              history:
+ *                  type: string
+ *                  description: the character history
  */
-const router = Router();
+
+/**
+ * @swagger
+ * /characters:
+ *  get:
+ *      summary: get all characters
+ *      tags: [Character]
+ *      responses:
+ *          200:
+ *              description: all characters!
+ *              content:
+ *                  application/json:
+ *                      schema:
+ *                          type: array
+ *                          items:
+ *                              $ref: '#/components/schemas/Character'
+*/
 router.get('/', getCharacters)
+
 /**
  * @swagger
  * /characters:
@@ -41,6 +63,7 @@ router.get('/', getCharacters)
  *              description: new character created!
 */
 router.post('/', [validateCharacter], postCharacter)
+
 router.get('/:id', getCharacter)
 router.put('/:id', [validateCharacter], putCharacter)
 router.delete('/:id', [validateCharacter], deleteCharacter)

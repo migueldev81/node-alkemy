@@ -1,6 +1,7 @@
 //import dependecies
 import express from "express";
 import morgan from "morgan";
+import cors from 'cors'
 import swaggerUI from 'swagger-ui-express';
 import swaggerJSDoc from "swagger-jsdoc";
 import path from 'path';
@@ -29,6 +30,9 @@ const swaggerSpec = {
             {
                 url: "https://node-challenge-migueldev81.herokuapp.com/api/v1"
             },
+            {
+                url: "http://localhost:3000/api/v1"
+            },
         ]
     },
     apis: [`${path.join(__dirname, '../routes', '*.js')}`],
@@ -36,6 +40,7 @@ const swaggerSpec = {
 //middlewares
 app.use(morgan("dev"));
 app.use(express.json());
+app.use(cors())
 
 //routes
 app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerJSDoc(swaggerSpec)))
