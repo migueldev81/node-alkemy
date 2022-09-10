@@ -14,7 +14,7 @@ export const Role = sequelize.define(
         },
         slug: {
             type: DataTypes.STRING,
-        },
+        },  
         descritpion: {
             type: DataTypes.STRING,
         }

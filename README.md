@@ -1,13 +1,16 @@
-# Node.js - PostgreSQL | API REST | CHALLENGE BACKEND NodeJs
-## URL API
+## Nombre: CHALLENGE BACKEND NodeJS
+## Plataforma: Web
+## Tecnologías: Node.js, PostgreSQL
+## Descripcion: Challenge de ingreso para alkemy
+## API URL
 [https://node-challenge-migueldev81.herokuapp.com/api-docs](https://node-challenge-migueldev81.herokuapp.com/api-docs)
-## Database(SQL)
+## Database | SQL
 ![database](./resources/database.png)
 ## Local Development
 ### Requerimients
 ```
-Install Node.js
-Install PostgreSQL
+Node.js
+PostgreSQL
 ```
 ### Git Clone
 ```

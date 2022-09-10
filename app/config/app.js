@@ -20,18 +20,15 @@ import UserRoutes from '../routes/UserRoutes.js'
 const app = express();
 const swaggerSpec = {
     definition: {
-        openapi: "3.0.0",
+        openapi: "3.0.1",
         info: {
-            title: "Backend Challenge API",
-            version: 1.0,
-
+            title: "CHALLENGE BACKEND NodeJs",
+            version: "1.0.0",
+            description: "*GitHub repository: [https://github.com/swagger-api/swagger-petstorey](https://github.com/swagger-api/swagger-petstore) *API URL: [https://github.com/swagger-api/swagger-petstorey](https://github.com/swagger-api/swagger-petstore)"
         },
         servers: [
             {
                 url: "https://node-challenge-migueldev81.herokuapp.com/api/v1"
-            },
-            {
-                url: "http://localhost:3000/api/v1"
             },
         ]
     },
