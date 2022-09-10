@@ -11,6 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 //import routes
+import IndexRoutes from '../routes/IndexRoutes.js'
 import CharacterRoutes from '../routes/CharacterRoutes.js'
 import MovieRoutes from '../routes/MovieRoutes.js'
 import GenderRoutes from '../routes/GenderRoutes.js'
@@ -22,9 +23,9 @@ const swaggerSpec = {
     definition: {
         openapi: "3.0.1",
         info: {
-            title: "CHALLENGE BACKEND NodeJs",
+            title: "CHALLENGE BACKEND NodeJS",
             version: "1.0.0",
-            description: "*GitHub repository: [https://github.com/swagger-api/swagger-petstorey](https://github.com/swagger-api/swagger-petstore) *API URL: [https://github.com/swagger-api/swagger-petstorey](https://github.com/swagger-api/swagger-petstore)"
+            description: "GitHub repository: [https://github.com/migueldev81/node-alkemy-challenge](https://github.com/migueldev81/node-alkemy-challenge)   " + "API URL: [https://node-challenge-migueldev81.herokuapp.com/api/v1](https://node-challenge-migueldev81.herokuapp.com/api/v1)"
         },
         servers: [
             {
@@ -41,6 +42,7 @@ app.use(cors())
 
 //routes
 app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerJSDoc(swaggerSpec)))
+app.use("/api/v1", IndexRoutes);
 app.use("/api/v1/characters", CharacterRoutes);
 app.use("/api/v1/movies", MovieRoutes);
 app.use("/api/v1/genders", GenderRoutes);
