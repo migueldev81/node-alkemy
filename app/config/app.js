@@ -29,7 +29,7 @@ const swaggerSpec = {
         },
         servers: [
             {
-                url: "https://node-challenge-migueldev81.herokuapp.com/api/v1"
+                url: "https://node-alkemy-challenge.onrender.com/api/v1"
             },
         ]
     },
