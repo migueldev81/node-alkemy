@@ -1,7 +1,8 @@
 ## Name: CHALLENGE BACKEND NodeJS
-## Description: Challenge de ingreso para alkemy
+## Description: 
+Challenge de ingreso para alkemy
 ## Platform: Web API
-## Technologies: Node.js, PostgreSQL
+## Technologies: Node.js - PostgreSQL
 ## Version: 1.0.0
 ## API URL
 [https://node-challenge-migueldev81.herokuapp.com/api/v1](https://node-challenge-migueldev81.herokuapp.com/api/v1)

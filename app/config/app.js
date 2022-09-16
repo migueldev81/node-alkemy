@@ -44,8 +44,8 @@ app.use(cors())
 app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerJSDoc(swaggerSpec)))
 app.use("/api/v1", IndexRoutes);
 app.use("/api/v1/characters", CharacterRoutes);
-app.use("/api/v1/movies", MovieRoutes);
 app.use("/api/v1/genders", GenderRoutes);
+app.use("/api/v1/movies", MovieRoutes);
 app.use("/api/v1/auth", UserRoutes);
 
 export default app;
