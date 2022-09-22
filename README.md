@@ -1,4 +1,4 @@
-    <table id="vertical-1">
+   <table id="vertical-1">
             <caption>First Way</caption>
             <tr>
                 <th>Header 1</th>
