@@ -1,5 +1,5 @@
    <table id="vertical-1">
-            <caption>Technican Date</caption>
+            
             <tr>
                 <th>NAME</th>
                 <td>Challenge Alkemy</td>
@@ -9,6 +9,10 @@
                 <td>data</td>
             </tr>
             <tr>
+                <th>DECRIPTION</th>
+                <td>data</td> <td>data</td> <td>data</td>
+            </tr>
+            <tr>
                 <th>API URL</th>
                 <td><a href="https://node-alkemy-challenge.onrender.com/api/v1">https://node-alkemy-challenge.onrender.com/api/v1</a></td>
             </tr>
@@ -16,13 +20,12 @@
                 <th>DOCS</th>
                 <td><a href="https://node-alkemy-challenge.onrender.com/api-docs">https://node-alkemy-challenge.onrender.com/api-docs</a></td>
             </tr>
+            <tr>
+                <th>WEB</th>
+                <td><a href="https://node-alkemy-challenge.onrender.com/api-docs">https://node-alkemy-challenge.onrender.com/api-docs</a></td>
+            </tr>
         </table>
 
-## API URL
-[https://node-challenge-migueldev81.herokuapp.com/api/v1](https://node-challenge-migueldev81.herokuapp.com/api/v1)
-## Swagger Documentation
-[https://node-challenge-migueldev81.herokuapp.com/api-docs](https://node-challenge-migueldev81.herokuapp.com/api-docs)
-## Database | SQL
 ![database](./resources/database.png)
 ## Local Development
 ### Requerimients
