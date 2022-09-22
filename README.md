@@ -2,15 +2,19 @@
             <caption>Technican Date</caption>
             <tr>
                 <th>NAME</th>
-                <td>DESCRIPTON</td>
+                <td>Challenge Alkemy</td>
             </tr>
             <tr>
-                <th>Header 2</th>
+                <th>DECRIPTION</th>
                 <td>data</td>
             </tr>
             <tr>
-                <th>Header 2</th>
-                <td>data</td>
+                <th>API URL</th>
+                <td><a href="https://node-alkemy-challenge.onrender.com/api/v1">https://node-alkemy-challenge.onrender.com/api/v1</a></td>
+            </tr>
+             <tr>
+                <th>DOCS</th>
+                <td><a href="https://node-alkemy-challenge.onrender.com/api-docs">https://node-alkemy-challenge.onrender.com/api-docs</a></td>
             </tr>
         </table>
 
