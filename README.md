@@ -9,10 +9,6 @@
                 <td>data</td>
             </tr>
             <tr>
-                <th>DECRIPTION</th>
-                <td>data</td><td>data</td><td>data</td>
-            </tr>
-            <tr>
                 <th>API URL</th>
                 <td><a href="https://node-alkemy-challenge.onrender.com/api/v1">https://node-alkemy-challenge.onrender.com/api/v1</a></td>
             </tr>
