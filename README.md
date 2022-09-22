@@ -1,16 +1,18 @@
 <table>
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alkemy Challenge</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  
-</table>
+            <caption>First Way</caption>
+            <tr>
+                <th>Header 1</th>
+                <td>data</td><td>data</td><td>data</td>
+            </tr>
+            <tr>
+                <th>Header 2</th>
+                <td>data</td><td>data</td><td>data</td>
+            </tr>
+            <tr>
+                <th>Header 2</th>
+                <td>data</td><td>data</td><td>data</td>
+            </tr>
+        </table>
 
 ## API URL
 [https://node-challenge-migueldev81.herokuapp.com/api/v1](https://node-challenge-migueldev81.herokuapp.com/api/v1)
