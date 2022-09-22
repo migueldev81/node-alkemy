@@ -1,16 +1,16 @@
    <table id="vertical-1">
-            <caption>First Way</caption>
+            <caption>Technican Date</caption>
             <tr>
-                <th>Header 1</th>
-                <td>data</td><td>data</td><td>data</td>
+                <th>NAME</th>
+                <td>DESCRIPTON</td>
             </tr>
             <tr>
                 <th>Header 2</th>
-                <td>data</td><td>data</td><td>data</td>
+                <td>data</td>
             </tr>
             <tr>
                 <th>Header 2</th>
-                <td>data</td><td>data</td><td>data</td>
+                <td>data</td>
             </tr>
         </table>
 
