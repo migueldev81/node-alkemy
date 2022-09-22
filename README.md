@@ -6,7 +6,7 @@
             <td>Challenge Alkemy</td>
         </tr>
         <tr>
-            <th>DECRIPTION</th>
+            <th>DESCRIPTION</th>
             <td>Web API for alkemy challenge</td>
         </tr>
         <tr>
