@@ -10,7 +10,7 @@
             </tr>
             <tr>
                 <th>DECRIPTION</th>
-                <td>data</td> <td>data</td> <td>data</td>
+                <td>data</td><td>data</td><td>data</td>
             </tr>
             <tr>
                 <th>API URL</th>
