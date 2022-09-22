@@ -10,7 +10,7 @@
             <td>Web API for alkemy challenge</td>
         </tr>
         <tr>
-            <th>APPLICATION</th>
+            <th>PLATFORM</th>
             <td>Web API</td>
         </tr>
         <tr>
