@@ -7,7 +7,7 @@
         </tr>
         <tr>
             <th>DECRIPTION</th>
-            <td>data</td>
+            <td>Web API for alkemy challenge</td>
         </tr>
         <tr>
             <th>APPLICATION</th>
@@ -15,7 +15,7 @@
         </tr>
         <tr>
             <th>TECHNOLOGIES</th>
-            <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/> <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/>             </td>
+            <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/></td>
         </tr>
         <tr>
             <th>API URL</th>
@@ -30,9 +30,7 @@
         </tr>
         <tr>
             <th>WEB</th>
-            <td><a
-                    href="https://node-alkemy-challenge.onrender.com/api-docs">https://node-alkemy-challenge.onrender.com/api-docs</a>
-            </td>
+            <td><a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a></td>
         </tr>
    </table>
 
