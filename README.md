@@ -19,8 +19,7 @@
         </tr>
         <tr>
             <th>API URL</th>
-            <td><a
-                    href="https://node-alkemy-challenge.onrender.com/api/v1">https://node-alkemy-challenge.onrender.com/api/v1</a>
+            <td><a href="https://node-alkemy-challenge.onrender.com/api/v1" target="_blank">https://node-alkemy-challenge.onrender.com/api/v1</a>
             </td>
         </tr>
         <tr>
