@@ -1,5 +1,6 @@
-    <table id="vertical-1">
-
+    
+   <table id="vertical-1">
+        <caption></caption>
         <tr>
             <th>NAME</th>
             <td>Challenge Alkemy</td>
@@ -7,6 +8,14 @@
         <tr>
             <th>DECRIPTION</th>
             <td>data</td>
+        </tr>
+        <tr>
+            <th>APPLICATION</th>
+            <td>Web API</td>
+        </tr>
+        <tr>
+            <th>TECHNOLOGIES</th>
+            <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/> <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/>             </td>
         </tr>
         <tr>
             <th>API URL</th>
@@ -26,7 +35,7 @@
                     href="https://node-alkemy-challenge.onrender.com/api-docs">https://node-alkemy-challenge.onrender.com/api-docs</a>
             </td>
         </tr>
-    </table>
+   </table>
 
 ## Database | SQL
 ![database](./resources/database.png)
