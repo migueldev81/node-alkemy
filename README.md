@@ -14,6 +14,10 @@
             <td>Web API</td>
         </tr>
         <tr>
+            <th>AUTH</th>
+            <td>JSON Web Token</td>
+        </tr>
+        <tr>
             <th>TECHNOLOGIES</th>
             <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/></td>
         </tr>
