@@ -1,12 +1,20 @@
 <table>
-            <caption>First Way</caption>
+            <caption></caption>
             <tr>
-                <th>Header 1</th>
-                <td>data</td><td>data</td><td>data</td>
+                <th>NAME</th>
+                <td>Aljemy Chellenge</td>
             </tr>
             <tr>
-                <th>Header 2</th>
-                <td>data</td><td>data</td><td>data</td>
+                <th>API URL</th>
+                <td>asdpp</td>
+            </tr>
+             <tr>
+                <th>SWAGGER DOCUMENTAION</th>
+                <td>asdpp</td>
+            </tr>
+            <tr>
+                <th>WEB</th>
+                <td>asdpp</td>
             </tr>
             <tr>
                 <th>Header 2</th>
