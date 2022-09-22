@@ -1,26 +1,18 @@
-  <table>
-     <caption>First Way</caption>
-
-          <tr>
-                <th>NAME</th>
-                <td>Aljemy Chellenge</td>
-            </tr>
-              <th>DESCRITPION</th>
-                <td>Backend for challenge the organization alkemy</td>
+    <table id="vertical-1">
+            <caption>First Way</caption>
             <tr>
-                <th>API URL</th>
-                <td>asdpp</td>
-            </tr>
-             <tr>
-                <th>SWAGGER DOCUMENTAION</th>
-                <td>asdpp</td>
+                <th>Header 1</th>
+                <td>data</td><td>data</td><td>data</td>
             </tr>
             <tr>
-                <th>WEB</th>
-                <td>asdpp</td>
+                <th>Header 2</th>
+                <td>data</td><td>data</td><td>data</td>
             </tr>
-            
-     </table>
+            <tr>
+                <th>Header 2</th>
+                <td>data</td><td>data</td><td>data</td>
+            </tr>
+        </table>
 
 ## API URL
 [https://node-challenge-migueldev81.herokuapp.com/api/v1](https://node-challenge-migueldev81.herokuapp.com/api/v1)
