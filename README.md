@@ -1,5 +1,4 @@
 <table>
-            <caption></caption>
             <tr>
                 <th>NAME</th>
                 <td>Aljemy Chellenge</td>
@@ -18,10 +17,7 @@
                 <th>WEB</th>
                 <td>asdpp</td>
             </tr>
-            <tr>
-                <th>Header 2</th>
-                <td>data</td><td>data</td><td>data</td>
-            </tr>
+            
         </table>
 
 ## API URL
