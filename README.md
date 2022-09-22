@@ -15,7 +15,7 @@
         </tr>
         <tr>
             <th>AUTH</th>
-            <td>JSON Web Token</td>
+            <td>Yes</td>
         </tr>
         <tr>
             <th>TECHNOLOGIES</th>
