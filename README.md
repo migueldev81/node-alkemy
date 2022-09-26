@@ -14,6 +14,10 @@
             <td>Web API</td>
         </tr>
         <tr>
+            <th>ARCHITECTURE</th>
+            <td>REST</td>
+        </tr>
+        <tr>
             <th>AUTH</th>
             <td>Yes</td>
         </tr>
@@ -46,7 +50,7 @@
 Node.js
 PostgreSQL
 ```
-### Git Clone
+### Git Repository
 ```
 git clone https://github.com/migueldev81/node-alkemy-challenge
 ```
