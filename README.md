@@ -49,7 +49,7 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
    </table>
 
 ## Database | SQL
-![database](./resources/database.png)
+![database](./resources/db-design.png)
 ## Local Development
 ### Requerimients
 ```
