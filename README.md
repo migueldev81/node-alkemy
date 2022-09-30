@@ -25,7 +25,8 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
         </tr>
         <tr>
             <th>TECHNOLOGIES</th>
-            <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/></td>
+            <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+            <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/></td>
         </tr>
         <tr>
             <th>API URL</th>
@@ -56,7 +57,7 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
 Node.js
 https://nodejs.org/en/download/
 
-MariaDB|MySQL|PostgreSQL
+MariaDB | MySQL | PostgreSQL
 https://mariadb.org/download/?t=mariadb
 https://www.mysql.com/downloads/
 https://www.postgresql.org/download/
