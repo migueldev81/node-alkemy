@@ -26,7 +26,7 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
         <tr>
             <th>TECHNOLOGIES</th>
             <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-            <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/></td>
+           <img src="https://img.icons8.com/ios-filled/48/000000/sql.png"/></td>
         </tr>
         <tr>
             <th>API URL</th>
