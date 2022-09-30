@@ -29,13 +29,13 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
         </tr>
         <tr>
             <th>API URL</th>
-            <td><a href="https://node-alkemy-challenge.onrender.com/api/v1" target="_blank">https://node-alkemy-challenge.onrender.com/api/v1</a>
+            <td><a href="http://localhost:3000/api/v1" target="_blank">http://localhost:3000/api/v1</a>
             </td>
         </tr>
         <tr>
             <th>DOCS</th>
             <td><a
-                    href="https://node-alkemy-challenge.onrender.com/api-docs">https://node-alkemy-challenge.onrender.com/api-docs</a>
+                    href="http://localhost:3000/api-docs">http://localhost:3000/api-docs</a>
             </td>
         </tr>
         <tr>
