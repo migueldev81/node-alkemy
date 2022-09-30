@@ -54,7 +54,12 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
 ### Requerimients
 ```
 Node.js
-PostgreSQL
+https://nodejs.org/en/download/
+
+MariaDB|MySQL|PostgreSQL
+https://mariadb.org/download/?t=mariadb
+https://www.mysql.com/downloads/
+https://www.postgresql.org/download/
 ```
 ### Git Repository
 ```
