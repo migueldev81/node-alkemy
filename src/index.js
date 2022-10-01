@@ -3,9 +3,9 @@ config();
 import app from "./config/app.js";
 import { sequelize } from './config/database.js'
 function server() {
-  const PORT = process.env.PORT || 3000;
+  app.set('port', 3000 | process.env.PORT)
   app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}.`);
+    console.log(`Server is running on port ${app.get('port')}.`);
   });
 }
 async function database() {
