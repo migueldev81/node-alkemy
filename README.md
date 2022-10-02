@@ -68,7 +68,7 @@ git clone https://github.com/migueldev81/node-alkemy-challenge
 ```
 ### Variables Enviroment (.env)
 ````
-DB_URL=
+DATABASE_URL=
 PASS_SEC=
 JWT_SEC=
 ````
