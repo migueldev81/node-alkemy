@@ -28,7 +28,7 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
             <td>Node.js / Express.js / MySQL</td>
         </tr>
         <tr>
-            <th>API URL</th>
+            <th>URL</th>
             <td><a href="http://localhost:3000/api/v1" target="_blank">http://localhost:3000/api/v1</a>
             </td>
         </tr>
