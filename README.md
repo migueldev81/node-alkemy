@@ -39,11 +39,7 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
             </td>
         </tr>
         <tr>
-            <th>WEB</th>
-            <td>No</td>
-        </tr>
-        <tr>
-            <th>MOBILE</th>
+            <th>Web APP</th>
             <td>No</td>
         </tr>
    </table>
