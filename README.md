@@ -16,16 +16,16 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
             <td>Web API</td>
         </tr>
         <tr>
+            <th>TECHNOLOGIES</th>
+            <td>Node.js / Express.js / MySQL</td>
+        </tr>
+        <tr>
             <th>ARCHITECTURE</th>
             <td>REST</td>
         </tr>
         <tr>
             <th>AUTH</th>
-            <td>Yes</td>
-        </tr>
-        <tr>
-            <th>TECHNOLOGIES</th>
-            <td>Node.js / Express.js / MySQL</td>
+            <td>JSON Web Token</td>
         </tr>
         <tr>
             <th>URL</th>
