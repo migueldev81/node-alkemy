@@ -48,15 +48,19 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
 ![database](./resources/db-design.png)
 ## Local Development
 ### Requerimients
-```
+
 Node.js
 https://nodejs.org/en/download/
 
-MariaDB | MySQL | PostgreSQL
-https://mariadb.org/download/?t=mariadb
-https://www.mysql.com/downloads/
-https://www.postgresql.org/download/
-```
+MariaDB
+[https://mariadb.org/download/?t=mariadb](https://mariadb.org/download/?t=mariadb)
+
+MySQL
+[https://www.mysql.com/downloads/](https://www.mysql.com/downloads/)
+
+PostgreSQL
+[https://www.postgresql.org/download/]([https://www.postgresql.org/download/)
+
 ### Git Repository
 ```
 git clone https://github.com/migueldev81/node-alkemy-challenge
@@ -67,7 +71,7 @@ DATABASE_URL=
 PASS_SEC=
 JWT_SEC=
 ````
-### SQL Console(No Remote)
+### Create Database | SQL Console
 ````
 CREATE DATABASE [database];
 ````
