@@ -38,10 +38,6 @@ exponer la información para que cualquier frontend pueda consumirla.</td>
                     href="http://localhost:3000/api-docs">http://localhost:3000/api-docs</a>
             </td>
         </tr>
-        <tr>
-            <th>Web APP</th>
-            <td>No</td>
-        </tr>
    </table>
 
 ## Database | SQL
@@ -59,7 +55,7 @@ MySQL
 [https://www.mysql.com/downloads/](https://www.mysql.com/downloads/)
 
 PostgreSQL
-[https://www.postgresql.org/download/]([https://www.postgresql.org/download/)
+[https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 
 ### Git Repository
 ```
